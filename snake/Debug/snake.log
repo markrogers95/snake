@@ -1,0 +1,4 @@
+﻿  snake.cpp
+C:\Users\roger\source\repos\snake\snake\snake.cpp(58,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\roger\source\repos\snake\snake\snake.cpp(133,21): warning C4018: '<': signed/unsigned mismatch
+  snake.vcxproj -> C:\Users\roger\source\repos\snake\Debug\snake.exe
